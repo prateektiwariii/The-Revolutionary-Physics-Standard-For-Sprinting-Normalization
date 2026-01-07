@@ -1,0 +1,13 @@
+Name                    Event   RawTime  ReactionTime  Wind  Altitude  Normalized100m
+Marcell Jacobs           100m    9.80     0.161         0.1   30        9.7433
+Noah Lyles               100m    9.79     0.178         1.0   43        9.7570
+Letsile Tebogo           200m    19.46    0.162         0.4   43        9.8348
+Andre De Grasse          200m    19.62    0.135        -0.5   30        9.8877
+Elaine Thompson-Herah    100m    10.61    0.150        -0.6   30        10.5294
+Julien Alfred            100m    10.72    0.144         0.1   43        10.6814
+Elaine Thompson-Herah    200m    21.53    0.173         0.8   30        10.9069
+Gabby Thomas             200m    21.83    0.165        -0.6   43        10.9853
+Quincy Hall              400m    43.40    0.150         0.0   43        11.8704
+Steven Gardiner          400m    43.85    0.179         0.0   30        11.9846
+Marileidy Paulino        400m    48.17    0.187         0.0   43        13.1657
+Shaunae Miller-Uibo      400m    48.36    0.162         0.0   30        13.2259
