@@ -1,0 +1,6 @@
+Name,Event,Games,RawTime,ReactionTime,Wind,Altitude,Temperature,Humidity,Lane,Radius_m,Surface,Height_m,Mass_kg,BSA_m2,FrontalArea_m2,Cd_avg,WindLegal,PAT_V1.2.1,Sensitivity_Range_ms,Robustness_Pct,Air_Density_kg_m3
+Akani Simbine,100m,Paris '24,9.82,0.149,1.0,43,21.0,58,9,0.00,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,9.5557,6.43,100.0,1.1876
+Andre De Grasse,100m,Tokyo '20,9.89,0.155,0.1,40,28.0,78,9,0.00,Mondo WS,1.80,75.0,1.942,0.556,1.213,YES,9.8513,6.44,100.0,1.1539
+Kenneth Bednarek,200m,Tokyo '20,19.68,0.165,-0.5,40,29.0,65,7,36.50,Mondo WS,1.80,75.0,1.942,0.556,1.213,YES,10.6380,6.46,100.0,1.1516
+M. Hudson-Smith,400m,Paris '24,43.44,0.158,0.0,43,22.0,57,6,36.50,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,13.0567,6.47,100.0,1.1833
+Steven Gardiner,400m,Tokyo '20,43.85,0.179,0.0,40,30.0,60,7,36.50,Mondo WS,1.80,75.0,1.942,0.556,1.213,YES,13.5417,6.44,100.0,1.1481

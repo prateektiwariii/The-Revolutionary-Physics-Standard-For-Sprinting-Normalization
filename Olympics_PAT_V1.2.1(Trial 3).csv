@@ -1,0 +1,9 @@
+Name,Event,Games,RawTime,ReactionTime,Wind,Altitude,Temperature,Humidity,Lane,Radius_m,Surface,Height_m,Mass_kg,BSA_m2,FrontalArea_m2,Cd_avg,WindLegal,PAT_V1.2.1,Sensitivity_Range_ms,Robustness_Pct,Air_Density_kg_m3
+Kishane Thompson,100m,Paris '24,9.79,0.176,1.0,43,21.0,58,4,0.00,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,9.4997,6.43,100.0,1.1876
+Fred Kerley,100m,Paris '24,9.81,0.154,1.0,43,21.0,58,3,0.00,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,9.5410,6.43,100.0,1.1876
+Ronnie Baker,100m,Tokyo '20,9.95,0.153,0.1,40,28.0,78,7,0.00,Mondo WS,1.80,75.0,1.942,0.556,1.213,YES,9.9134,6.44,100.0,1.1539
+Su Bingtian,100m,Tokyo '20,9.98,0.167,0.1,40,28.0,78,6,0.00,Mondo WS,1.80,75.0,1.942,0.556,1.213,YES,9.9294,6.44,100.0,1.1539
+Rai Benjamin,400m Hurdles,Paris '24,46.46,0.150,0.0,43,25.0,50,8,36.50,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,11.6987,6.46,100.0,1.1711
+Sydney McLaughlin-Levrone,400m Hurdles,Paris '24,50.37,0.145,0.0,43,24.0,55,5,36.50,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,12.5898,6.46,100.0,1.1747
+
+

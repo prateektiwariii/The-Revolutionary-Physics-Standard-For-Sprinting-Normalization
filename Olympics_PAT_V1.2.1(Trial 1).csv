@@ -1,0 +1,13 @@
+Name,Event,Games,RawTime,ReactionTime,Wind,Altitude,Temperature,Humidity,Lane,Radius_m,Surface,Height_m,Mass_kg,BSA_m2,FrontalArea_m2,Cd_avg,WindLegal,PAT_V1.2.1,Sensitivity_Range_ms,Robustness_Pct,Air_Density_kg_m3
+Noah Lyles,100m,Paris '24,9.79,0.178,1.0,43,21.0,58,7,0.00,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,9.4977,6.43,100.0,1.1876
+Marcell Jacobs,100m,Tokyo '20,9.80,0.161,0.1,30,31.0,75,3,0.00,Mondotrack WS,1.80,75.0,1.942,0.556,1.213,YES,9.7667,6.43,100.0,1.1420
+Letsile Tebogo,200m,Paris '24,19.46,0.162,0.4,43,23.0,55,7,43.82,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,10.1440,6.45,100.0,1.1791
+Julien Alfred,100m,Paris '24,10.72,0.144,0.1,43,22.0,62,6,0.00,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,10.4010,6.46,100.0,1.1827
+Andre De Grasse,200m,Tokyo '20,19.62,0.135,-0.5,30,29.0,82,6,42.60,Mondotrack WS,1.80,75.0,1.942,0.556,1.213,YES,10.4985,6.46,100.0,1.1499
+E. Thompson-Herah,100m,Tokyo '20,10.61,0.150,-0.6,30,30.0,78,4,0.00,Mondotrack WS,1.80,75.0,1.942,0.556,1.213,YES,10.5500,6.46,100.0,1.1461
+Gabby Thomas,200m,Paris '24,21.83,0.165,-0.6,43,21.0,60,7,43.82,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,11.1761,6.49,100.0,1.1873
+E. Thompson-Herah,200m,Tokyo '20,21.53,0.173,0.8,30,30.0,79,7,43.82,Mondotrack WS,1.80,75.0,1.942,0.556,1.213,YES,11.4318,6.41,100.0,1.1459
+Quincy Hall,400m,Paris '24,43.40,0.150,0.0,43,22.0,57,8,45.04,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,12.9103,6.47,100.0,1.1833
+Steven Gardiner,400m,Tokyo '20,43.85,0.179,0.0,30,28.0,85,7,43.82,Mondotrack WS,1.80,75.0,1.942,0.556,1.213,YES,13.4078,6.44,100.0,1.1541
+M. Paulino,400m,Paris '24,48.17,0.187,0.0,43,24.0,52,6,42.60,Mondo Ellipse,1.80,75.0,1.942,0.556,1.213,YES,14.2445,6.46,100.0,1.1751
+S. Miller-Uibo,400m,Tokyo '20,48.36,0.162,0.0,30,29.0,83,7,43.82,Mondotrack WS,1.80,75.0,1.942,0.556,1.213,YES,14.6898,6.44,100.0,1.1498
